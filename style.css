@@ -4,7 +4,20 @@
 
 
 .suur-kast {
-    width: 100px;
-    height: 100px;
+    min-width: 100px;
+    min-height: 100px;
     background-color: #0005;
+    /*
+    */
+    margin:4px;
+}
+
+.inline {
+    display: inline-block;
+    border-collapse: collapse;
+    vertical-align: top;
+}
+
+div{
+    border-collapse: collapse;
 }
