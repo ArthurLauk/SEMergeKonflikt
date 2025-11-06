@@ -1,7 +1,9 @@
 
 
 
-
+body {
+    margin: 0px;
+}
 
 .suur-kast {
     min-width: 100px;
@@ -22,4 +24,9 @@
 
 div{
     border-collapse: collapse;
+}
+
+header {
+    background-color: pink;
+    display: flex;
 }
