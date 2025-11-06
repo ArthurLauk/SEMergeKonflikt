@@ -34,6 +34,23 @@ div{
 header {
     background-color: #ffffd0;
     display: flex;
+
+}
+
+.header_text {
+    padding-left: 10vw;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header_socials {
+    align-self: flex-end;
+    a {
+        background-color: white;
+
+    }
 }
 
 .slider {
