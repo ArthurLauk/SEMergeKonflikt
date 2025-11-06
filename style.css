@@ -20,6 +20,11 @@
     vertical-align: top;
 }
 
+.värvita-link {
+    text-decoration: none;
+    color: #000;
+}
+
 div{
     border-collapse: collapse;
 }
